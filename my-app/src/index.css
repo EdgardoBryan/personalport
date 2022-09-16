@@ -51,6 +51,7 @@ a:hover {
   height: 485px;
   margin-bottom: 30px;
   border: 3px solid black;
+  width: 100%;
 }
 
 .bostonpicside {
@@ -68,8 +69,10 @@ a:hover {
 
 .profile-pic {
   margin-top: 20px;
-  width: 354px;
-  border-radius: 60%;
+  width: 350px;
+  height: 430px;
+  border-radius: 33%;
+  margin-left: 70px;
 }
 .bio {
   font-size: 29px;
@@ -169,6 +172,7 @@ a:hover {
   height: 400px;
   margin-left: 10px;
   border: 3px solid #02cbff;
+  text-align: center;
 }
 
 .textProjects {
@@ -210,3 +214,60 @@ a:hover {
   height: 150px;
   width: 100%;
 }
+
+button{
+  border: none;
+  width: 80%;
+  height: 30px;
+  border: 1px solid #02cbff;
+  background-color: white;
+  color: #626775;
+}
+
+.projectboxes>h3{
+  margin-top: 50px;
+}
+
+.button1{
+margin-top: 100px;
+}
+.button2{
+  margin-top: 100px;
+}
+.button3{
+  margin-top: 100px;
+}
+.button4{
+margin-top: 60px;
+}
+.button5{
+margin-top: 125px;
+}
+.button6{
+margin-top: 39px;
+}
+
+.about{
+  text-align: center;
+}
+.AboutMe{
+height:300px;
+width:80%;
+margin: auto;
+background-color: #202124;
+margin-top: 40px;
+border: 1px solid black;
+margin-bottom: 20px;
+text-align: center;
+letter-spacing: 2px;
+margin: auto;
+line-height: 80px;
+color: white;
+}
+
+
+
+
+
+
+
